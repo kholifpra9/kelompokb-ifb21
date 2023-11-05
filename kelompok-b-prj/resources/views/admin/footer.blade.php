@@ -2,7 +2,7 @@
   <!-- Grid -->
   <div class="text-center">
     <div>
-      <a class="flex-none text-xl font-semibold text-black dark:text-white" href="#" aria-label="Brand">KELOMPOK B</a>
+      <a class="flex-none text-xl font-semibold text-black dark:text-white" href="#" aria-label="Brand">KELOMPOK B IFB 21</a>
     </div>
     <!-- End Col -->
 
