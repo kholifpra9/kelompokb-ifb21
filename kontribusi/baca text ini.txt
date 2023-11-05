@@ -1,5 +1,2 @@
 tambahkan file text untuk memenuhi kontribusi kelompok
-<<<<<<< HEAD
-=======
 kelompok ini sudah memenuhi
->>>>>>> b9280bc0e12de5f6d1b88891bef830d6f0e6edb2
